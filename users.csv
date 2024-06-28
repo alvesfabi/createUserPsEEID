@@ -1,0 +1,5 @@
+DisplayName,MailNickname,UserPrincipalName,Password
+Test User 1,TestUser1,TestUser1@kubedaveciam4.onmicrosoft.com,TempPass1
+Test User 2,TestUser2,TestUser2@kubedaveciam4.onmicrosoft.com,TempPass3
+Test User 3,TestUser3,TestUser3@kubedaveciam4.onmicrosoft.com,TempPass3
+
